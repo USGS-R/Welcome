@@ -1,5 +1,5 @@
-Welcome-to-USGS-R
-=================
+Welcome to USGS R help pages
+============================
 
 USGS-R organization help pages
 
