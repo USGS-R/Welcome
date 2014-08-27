@@ -3,7 +3,7 @@ Welcome to USGS R help pages
 
 USGS-R organization help pages
 
-[http://usgs-r.github.com](http://usgs-r.github.com/Welcome)
+[http://usgs-r.github.com/Welcome](http://usgs-r.github.com/Welcome)
 
 Disclaimer
 ----------
